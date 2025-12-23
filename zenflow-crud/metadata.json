@@ -1,0 +1,5 @@
+{
+  "name": "ZenFlow CRUD",
+  "description": "An elegant, AI-enhanced task and idea management application built with React, Tailwind CSS, and Google Gemini. Features full CRUD operations with a beautiful minimalist interface.",
+  "requestFramePermissions": []
+}
